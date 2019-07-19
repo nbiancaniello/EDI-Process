@@ -1,0 +1,11 @@
+C:\Users\Nicolas.Biancaniello\source\repos\Test\Base36\obj\Debug\netcoreapp2.2\Base36.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas.Biancaniello\source\repos\Test\Base36\obj\Debug\netcoreapp2.2\Base36.AssemblyInfoInputs.cache
+C:\Users\Nicolas.Biancaniello\source\repos\Test\Base36\obj\Debug\netcoreapp2.2\Base36.AssemblyInfo.cs
+C:\Users\Nicolas.Biancaniello\source\repos\Test\Base36\bin\Debug\netcoreapp2.2\Base36Test.deps.json
+C:\Users\Nicolas.Biancaniello\source\repos\Test\Base36\bin\Debug\netcoreapp2.2\Base36Test.runtimeconfig.json
+C:\Users\Nicolas.Biancaniello\source\repos\Test\Base36\bin\Debug\netcoreapp2.2\Base36Test.runtimeconfig.dev.json
+C:\Users\Nicolas.Biancaniello\source\repos\Test\Base36\bin\Debug\netcoreapp2.2\Base36Test.dll
+C:\Users\Nicolas.Biancaniello\source\repos\Test\Base36\bin\Debug\netcoreapp2.2\Base36Test.pdb
+C:\Users\Nicolas.Biancaniello\source\repos\Test\Base36\obj\Debug\netcoreapp2.2\Base36Test.dll
+C:\Users\Nicolas.Biancaniello\source\repos\Test\Base36\obj\Debug\netcoreapp2.2\Base36Test.pdb
+C:\Users\Nicolas.Biancaniello\source\repos\Test\Base36\obj\Debug\netcoreapp2.2\Base36.csprojAssemblyReference.cache

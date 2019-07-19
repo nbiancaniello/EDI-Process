@@ -1,0 +1,7 @@
+C:\Users\Nicolas.Biancaniello\source\repos\Test\EDI-InOut\bin\Debug\EDI-InOut.exe.config
+C:\Users\Nicolas.Biancaniello\source\repos\Test\EDI-InOut\bin\Debug\EDI-InOut.exe
+C:\Users\Nicolas.Biancaniello\source\repos\Test\EDI-InOut\bin\Debug\EDI-InOut.pdb
+C:\Users\Nicolas.Biancaniello\source\repos\Test\EDI-InOut\obj\Debug\EDI-InOut.csprojAssemblyReference.cache
+C:\Users\Nicolas.Biancaniello\source\repos\Test\EDI-InOut\obj\Debug\EDI-InOut.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas.Biancaniello\source\repos\Test\EDI-InOut\obj\Debug\EDI-InOut.exe
+C:\Users\Nicolas.Biancaniello\source\repos\Test\EDI-InOut\obj\Debug\EDI-InOut.pdb

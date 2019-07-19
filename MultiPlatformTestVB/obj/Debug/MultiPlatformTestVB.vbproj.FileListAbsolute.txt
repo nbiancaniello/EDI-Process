@@ -1,0 +1,11 @@
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTestVB\bin\Debug\MultiPlatformTestVB.exe.config
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTestVB\bin\Debug\MultiPlatformTestVB.exe
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTestVB\bin\Debug\MultiPlatformTestVB.pdb
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTestVB\bin\Debug\MultiPlatformTestVB.xml
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTestVB\obj\Debug\MultiPlatformTestVB.vbprojAssemblyReference.cache
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTestVB\obj\Debug\MultiPlatformTestVB.Resources.resources
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTestVB\obj\Debug\MultiPlatformTestVB.vbproj.GenerateResource.cache
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTestVB\obj\Debug\MultiPlatformTestVB.vbproj.CoreCompileInputs.cache
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTestVB\obj\Debug\MultiPlatformTestVB.exe
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTestVB\obj\Debug\MultiPlatformTestVB.xml
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTestVB\obj\Debug\MultiPlatformTestVB.pdb

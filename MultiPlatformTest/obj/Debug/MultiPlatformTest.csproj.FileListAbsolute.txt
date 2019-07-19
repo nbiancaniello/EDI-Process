@@ -1,0 +1,12 @@
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTest\obj\Debug\MultiPlatformTest.csprojAssemblyReference.cache
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTest\obj\Debug\MultiPlatformTest.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTest\bin\Debug\MultiPlatformTest.exe.config
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTest\bin\Debug\MultiPlatformTest.exe
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTest\bin\Debug\MultiPlatformTest.pdb
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTest\bin\Debug\MultiPlatformTestVB.exe
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTest\bin\Debug\MultiPlatformTestVB.pdb
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTest\bin\Debug\MultiPlatformTestVB.xml
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTest\bin\Debug\MultiPlatformTestVB.exe.config
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTest\obj\Debug\MultiPlatformTest.csproj.CopyComplete
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTest\obj\Debug\MultiPlatformTest.exe
+C:\Users\Nicolas.Biancaniello\source\repos\Test\MultiPlatformTest\obj\Debug\MultiPlatformTest.pdb
